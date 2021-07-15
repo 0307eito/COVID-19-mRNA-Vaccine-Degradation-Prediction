@@ -1,5 +1,6 @@
-# 小組專題報告
+# 預測新冠肺炎 mRNA 疫苗中的鹼基降解程度
 
+## 小組專題報告
 
 ![Final Project_Group20-01](https://user-images.githubusercontent.com/66252302/125809177-28c3095a-ad59-44a7-af2a-9d2c17867944.png)
 ![Final Project_Group20-02](https://user-images.githubusercontent.com/66252302/125809191-51e80b19-4b1e-495e-80a9-c144ad410133.png)
